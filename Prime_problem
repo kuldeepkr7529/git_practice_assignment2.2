@@ -1,0 +1,13 @@
+let num=N;
+let factor=0;
+for(let i=0;i<=num;i++){
+if(num==2){
+factor++;
+}
+}
+if(factor=2){
+console.log("Prime");
+}
+else{
+continue;
+}
