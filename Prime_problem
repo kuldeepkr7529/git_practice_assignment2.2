@@ -6,7 +6,7 @@ factor++;
 }
 }
 if(factor=2){
-console.log("Prime");
+console.log(num,"Prime");
 }
 else{
 console.log("Not a prime");
